@@ -1,0 +1,95 @@
+body{
+  background: lightblue;
+}
+.App {
+  text-align: center;
+  padding:10px;
+  
+}
+h2{
+  text-align: center;
+  font-weight: bold;
+  font-style: oblique;
+}
+p{
+  font-style: oblique;
+}
+td,th{
+  border: 1px solid black;
+  width: 70%;
+}
+
+.link1{
+  background: burlywood;
+}
+.ShowEmp{
+  border: 2px solid black;
+  background:palevioletred;
+  margin-top: 20px;
+  margin-left:200px;
+  margin-right: 200px;
+  box-shadow: 10px 10px 10px black;
+
+}
+table{
+  margin-left: 350px;
+  margin-bottom: 20px;
+}
+.btn1{
+  width: 10%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+input{
+  width: 30%;
+  padding: 10px;
+  margin: 10px auto;
+  border-radius: 10px;
+}
+
+h1{
+  color: blue;
+  font-weight: bold;
+
+}
+
+.TodoForm{
+  border: 2px solid black;
+  background:palevioletred;
+  margin-left:200px;
+  margin-right: 200px;
+  box-shadow: 10px 10px 10px black;
+
+}
+.TodoList{
+  border: 2px solid black;
+  background:blueviolet;
+  margin-left:200px;
+  margin-top: 50px;
+  margin-right: 200px;
+  box-shadow: 10px 10px 10px  black;
+
+}
+
+select{
+  width: 30%;
+  padding: 10px;
+  margin: 10px auto;
+  border-radius: 10px;
+
+}
+
+
+.text-danger{
+  color: red;
+}
+
+
+.App-div{
+  text-align: center;
+  border:4px solid blue;
+  padding:10px;
+
+}
+
